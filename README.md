@@ -1,2 +1,2 @@
 # hello-world
-mys name is asad
+my name is asad
